@@ -324,6 +324,8 @@ This project successfully demonstrated the implementation of a scalable three-ti
 
 ## Introduction to Jenkins with Steg technology hub
 
+## Uploading artifacts to our NFS-server
+
 
 
 
