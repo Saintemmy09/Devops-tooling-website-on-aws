@@ -326,6 +326,8 @@ This project successfully demonstrated the implementation of a scalable three-ti
 
 ## Uploading artifacts to our NFS-server
 
+## Confirming the updated files
+
 
 
 
