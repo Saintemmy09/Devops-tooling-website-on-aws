@@ -322,8 +322,7 @@ Conclusion:
 
 This project successfully demonstrated the implementation of a scalable three-tier DevOps Tooling Website on AWS. By separating the web, storage, and database layers, the solution provides improved scalability, centralized data management, and easier maintenance. It also highlights the practical application of AWS infrastructure, Linux administration, NFS, MySQL, and Apache in deploying a production-style web application.
 
-
-
+## Introduction to Jenkins with Steg technology hub
 
 
 
